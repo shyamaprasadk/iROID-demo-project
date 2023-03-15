@@ -1,0 +1,21 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "asset/fonts/Segoe UI Bold.ttf",
+      "sha1": "b2b26ea5a35f7c2f107d358f584985aa14218c4d"
+    },
+    {
+      "path": "asset/fonts/Segoe UI.ttf",
+      "sha1": "995e37cfba0e3df9a716891a4cf9a05b38b118f9"
+    },
+    {
+      "path": "asset/fonts/segoe-ui.ttf",
+      "sha1": "7fece2909ccb0172bbbc3435b5597fb53cf97c0c"
+    },
+    {
+      "path": "asset/fonts/ShurikenStd-Boy.otf",
+      "sha1": "2ff88e4e14e1eba77b396606815e0ed33c9999e0"
+    }
+  ]
+}
